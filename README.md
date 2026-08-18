@@ -1,12 +1,12 @@
 # Kidney-Donor Matching System
-#### A project aimed for the society
+#### A Django platform for matching kidney donors with acceptors, with location-aware routing
 
 ## Problem Statement
 * Current conditions for acceptor- donor matching are not cross-referencing intentions of donors willing to donate their kidneys to someone close to them.
 * Cadaver donors who are willing to donate do not find suitable acceptors in time for being helpful to the acceptor. The locations must be taken into account.
 * In the event of failure of ambulance arrival, nearby nurses can be informed of their need immediately and can cater to the needs of the diseased in time. 
 
-## Objective of Hakeam
+## Objective of Kidney-Donor
 * To create a central platform for kidney donation where, acceptors are dynamically matched with the donor. Including cross-referencing of intentions.
 * To enable the real time sharing of a patient’s location with a hospital to provide the hospital destination without the phone call.
 * To bring all nurses and doctors to provide home visits in time slots its feasible for them.
